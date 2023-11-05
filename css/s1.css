@@ -1,0 +1,57 @@
+
+body{
+    background-color: #ead5d5;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* header */
+header{
+    text-align: center;
+    background-color: #d4d4d4;
+    margin-bottom: 2%;
+}
+h1{
+    font-size: 300%;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+/* only <a> in <nav> */
+nav a { 
+    margin-right: 10px;
+    font-size: 125%;
+}
+#yt_logo {
+    width: 25px;
+}
+
+/* sections */
+
+.container{
+    margin-left: 7%;
+}
+section{
+    display: inline-block;
+    float: left;
+    margin-right: 50px;
+    padding: 10px 25px;
+    width: 20%;
+    background-color: #d4d4d4;
+}
+#ach{
+    width: 35%;
+}
+h2{
+    font-size: 200%;
+}
+
+
+
+/* footer */
+footer{
+    clear: both;
+    margin-top: 25%;
+}
+footer img{
+    width: 5%;
+}
